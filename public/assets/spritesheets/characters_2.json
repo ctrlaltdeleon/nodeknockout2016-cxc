@@ -1,0 +1,348 @@
+{"frames": [
+
+{
+	"filename": "enemy/poop/grr/0001.png",
+	"frame": {"x":385,"y":59,"w":41,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":41,"h":42},
+	"sourceSize": {"w":44,"h":50}
+},
+{
+	"filename": "enemy/poop/grr/0002.png",
+	"frame": {"x":428,"y":80,"w":41,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":41,"h":42},
+	"sourceSize": {"w":44,"h":50}
+},
+{
+	"filename": "player/samurai/dash/0001.png",
+	"frame": {"x":153,"y":1,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":61},
+	"sourceSize": {"w":64,"h":61}
+},
+{
+	"filename": "player/samurai/dash/0002.png",
+	"frame": {"x":711,"y":67,"w":51,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":54},
+	"sourceSize": {"w":51,"h":54}
+},
+{
+	"filename": "player/samurai/dash/0003.png",
+	"frame": {"x":764,"y":67,"w":51,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":54},
+	"sourceSize": {"w":51,"h":54}
+},
+{
+	"filename": "player/samurai/fall/0001.png",
+	"frame": {"x":76,"y":1,"w":75,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":66},
+	"sourceSize": {"w":75,"h":66}
+},
+{
+	"filename": "player/samurai/fall/0002.png",
+	"frame": {"x":1,"y":1,"w":73,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":69},
+	"sourceSize": {"w":73,"h":69}
+},
+{
+	"filename": "player/samurai/fall/0003.png",
+	"frame": {"x":1,"y":1,"w":73,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":69},
+	"sourceSize": {"w":73,"h":69}
+},
+{
+	"filename": "player/samurai/idle/0001.png",
+	"frame": {"x":769,"y":1,"w":45,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":64},
+	"sourceSize": {"w":45,"h":64}
+},
+{
+	"filename": "player/samurai/idle/0002.png",
+	"frame": {"x":294,"y":62,"w":45,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":65},
+	"sourceSize": {"w":45,"h":65}
+},
+{
+	"filename": "player/samurai/idle/0003.png",
+	"frame": {"x":664,"y":62,"w":45,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":65},
+	"sourceSize": {"w":45,"h":65}
+},
+{
+	"filename": "player/samurai/idle/0004.png",
+	"frame": {"x":817,"y":55,"w":45,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":65},
+	"sourceSize": {"w":45,"h":65}
+},
+{
+	"filename": "player/samurai/idle/0005.png",
+	"frame": {"x":247,"y":63,"w":45,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":64},
+	"sourceSize": {"w":45,"h":64}
+},
+{
+	"filename": "player/samurai/idle/0006.png",
+	"frame": {"x":153,"y":64,"w":45,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+{
+	"filename": "player/samurai/idle/0007.png",
+	"frame": {"x":200,"y":64,"w":45,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+{
+	"filename": "player/samurai/jump/0001.png",
+	"frame": {"x":219,"y":1,"w":56,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":60},
+	"sourceSize": {"w":56,"h":60}
+},
+{
+	"filename": "player/samurai/jump/0002.png",
+	"frame": {"x":511,"y":1,"w":44,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":76},
+	"sourceSize": {"w":44,"h":76}
+},
+{
+	"filename": "player/samurai/jump/0003.png",
+	"frame": {"x":455,"y":1,"w":54,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":77},
+	"sourceSize": {"w":54,"h":77}
+},
+{
+	"filename": "player/samurai/land/0001.png",
+	"frame": {"x":563,"y":69,"w":53,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":52},
+	"sourceSize": {"w":53,"h":52}
+},
+{
+	"filename": "player/samurai/land/0002.png",
+	"frame": {"x":511,"y":79,"w":50,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":48},
+	"sourceSize": {"w":50,"h":48}
+},
+{
+	"filename": "player/samurai/land/0003.png",
+	"frame": {"x":816,"y":1,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":52},
+	"sourceSize": {"w":52,"h":52}
+},
+{
+	"filename": "player/samurai/land/0004.png",
+	"frame": {"x":511,"y":79,"w":50,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":48},
+	"sourceSize": {"w":50,"h":48}
+},
+{
+	"filename": "player/samurai/slash/01/0001.png",
+	"frame": {"x":610,"y":1,"w":52,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":62},
+	"sourceSize": {"w":52,"h":62}
+},
+{
+	"filename": "player/samurai/slash/01/0002.png",
+	"frame": {"x":76,"y":69,"w":63,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":58},
+	"sourceSize": {"w":63,"h":58}
+},
+{
+	"filename": "player/samurai/slash/01/sword.png",
+	"frame": {"x":385,"y":103,"w":30,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":19},
+	"sourceSize": {"w":30,"h":19}
+},
+{
+	"filename": "player/samurai/slash/02/0001.png",
+	"frame": {"x":720,"y":1,"w":47,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":64},
+	"sourceSize": {"w":47,"h":64}
+},
+{
+	"filename": "player/samurai/slash/02/0002.png",
+	"frame": {"x":1,"y":72,"w":71,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":55},
+	"sourceSize": {"w":71,"h":55}
+},
+{
+	"filename": "player/samurai/slash/02/0003.png",
+	"frame": {"x":397,"y":1,"w":56,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":55},
+	"sourceSize": {"w":56,"h":55}
+},
+{
+	"filename": "player/samurai/slash/02/0004.png",
+	"frame": {"x":336,"y":1,"w":59,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":56},
+	"sourceSize": {"w":59,"h":56}
+},
+{
+	"filename": "player/samurai/slash/02/0005.png",
+	"frame": {"x":277,"y":1,"w":57,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":59},
+	"sourceSize": {"w":57,"h":59}
+},
+{
+	"filename": "player/samurai/slash/02/hand.png",
+	"frame": {"x":141,"y":69,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "player/samurai/slash/02/sword.png",
+	"frame": {"x":471,"y":80,"w":36,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":38},
+	"sourceSize": {"w":36,"h":38}
+},
+{
+	"filename": "player/samurai/slash/03/0001.png",
+	"frame": {"x":664,"y":1,"w":54,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":59},
+	"sourceSize": {"w":54,"h":59}
+},
+{
+	"filename": "player/samurai/slash/03/0002.png",
+	"frame": {"x":557,"y":1,"w":51,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":66},
+	"sourceSize": {"w":51,"h":66}
+},
+{
+	"filename": "player/samurai/slash/03/0003.png",
+	"frame": {"x":1,"y":72,"w":71,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":55},
+	"sourceSize": {"w":71,"h":55}
+},
+{
+	"filename": "player/samurai/slash/03/0004.png",
+	"frame": {"x":397,"y":1,"w":56,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":55},
+	"sourceSize": {"w":56,"h":55}
+},
+{
+	"filename": "player/samurai/slash/03/0005.png",
+	"frame": {"x":336,"y":1,"w":59,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":56},
+	"sourceSize": {"w":59,"h":56}
+},
+{
+	"filename": "player/samurai/slash/03/0006.png",
+	"frame": {"x":277,"y":1,"w":57,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":59},
+	"sourceSize": {"w":57,"h":59}
+},
+{
+	"filename": "player/samurai/slash/03/hand.png",
+	"frame": {"x":141,"y":69,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "player/samurai/slash/03/sword.png",
+	"frame": {"x":471,"y":80,"w":36,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":38},
+	"sourceSize": {"w":36,"h":38}
+},
+{
+	"filename": "player/samurai/take_damage/0001.png",
+	"frame": {"x":618,"y":65,"w":38,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":57},
+	"sourceSize": {"w":38,"h":57}
+},
+{
+	"filename": "player/samurai/take_damage/0002.png",
+	"frame": {"x":341,"y":59,"w":42,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":68},
+	"sourceSize": {"w":42,"h":68}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "characters_2.png",
+	"format": "RGBA8888",
+	"size": {"w":869,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:24792569af5a18f4307f9d55f2e75dde:522edb064b8b7fa30e989d0dedab8849:bd85eff6cdfda97400ac9ec4d4aac851$"
+}
+}
