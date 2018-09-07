@@ -46,7 +46,7 @@ WARNING: Watch out for evil emojis!
 
 ## <span role="img" aria-label="Sparkles">✨</span> Quick Installation
 
-Make sure you have [Node.js](http://nodejs.org/) installed.
+Make sure you have [Node.js](https://nodejs.org/) installed.
 
 ```sh
 git clone https://github.com/acfromspace/nodeknockout2016-cxc.git
@@ -55,7 +55,7 @@ npm install
 npm start
 ```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+Your app should now be running on [localhost:5000](https://localhost:5000/).
 
 ### Deploying to EngineYard
 
