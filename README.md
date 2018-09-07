@@ -49,7 +49,7 @@ WARNING: Watch out for evil emojis!
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-git clone git@github.com:rumblex/nodeknockout2016-cxc.git # or clone your own fork here
+git clone https://github.com/acfromspace/nodeknockout2016-cxc.git
 cd nodeknockout2016-cxc
 npm install
 npm start
@@ -61,7 +61,7 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 Log into <https://cloud.engineyard.com>. Navigate to your Team's Application, and click "Deploy".
 
-For more information about using Node.js on EngineYard, check out the article below
+For more information about using Node.js on EngineYard, check out the article below:
 
 - [Deploy Your Node.js Application on Engine Yard Cloud](https://support.cloud.engineyard.com/hc/en-us/articles/205411878-Deploy-Your-Node-js-Application-on-Engine-Yard-Cloud)
 
