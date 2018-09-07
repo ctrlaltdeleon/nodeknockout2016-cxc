@@ -17,7 +17,7 @@
 <!-- INFORMATION (Shields:IO) -->
 
 <p align="center">
-    <a href="https://github.com/acfromspace/weatherchecker/blob/master/LICENSE">
+    <a href="https://github.com/acfromspace/nodeknockout2016-cxc/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
             alt="License: MIT"></a>
     <a href="https://twitter.com/intent/follow?screen_name=acfromspace">
