@@ -1,7 +1,7 @@
 <!-- HEADING -->
 
 <h1 align="center">️
-  Node Knockout 2016 "NodeQuest"
+  nodeknockout2016-cxc
 </h1>
 
 <!-- DESCRIPTION -->
