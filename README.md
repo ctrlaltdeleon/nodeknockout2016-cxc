@@ -1,17 +1,17 @@
 <!-- HEADING -->
 
 <h1 align="center">️
-  Node Knockout 2016 "Nodequest"
+  Node Knockout 2016 "NodeQuest"
 </h1>
 
 <!-- DESCRIPTION -->
 
 <h3 align="center">
-  <span role="img" aria-label="Sparkles">✨</span>
+  <span role="img" aria-label="Oncoming Fist">👊</span>
 </h3>
 <p align="center">
   <strong>Game application made by team "Crows by Crows".</strong><br>
-  A <a href="https://nodejs.org/en/" target="_blank">Node.js</a> product using <a href="https://expressjs.com/" target="_blank">Express</a>.
+  <a href="https://www.nodeknockout.com/" target="_blank">Node Knockout</a> 2016 Hackathon Entry. A <a href="https://nodejs.org/en/" target="_blank">Node.js</a> product using <a href="https://expressjs.com/" target="_blank">Express</a>.
 </p>
 
 <!-- INFORMATION (Shields:IO) -->
@@ -31,14 +31,14 @@
   <img src="./images/demo.gif">
 </p>
 
-A 2D platforming game!
+"NodeQuest", a 2D platforming game!
 
 ``` 
 W or ↑ = JUMP
 A or ← = LEFT
 D or → = RIGHT
 
-Goal: Find the obnoxiously large coin
+Goal: Find the obnoxiously large coin!
 WARNING: Watch out for evil emojis!
 ```
 
@@ -57,7 +57,7 @@ npm start
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
-##### Deploying to EngineYard
+### Deploying to EngineYard
 
 Log into <https://cloud.engineyard.com>. Navigate to your Team's Application, and click "Deploy".
 
