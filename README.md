@@ -86,7 +86,7 @@ A quick look at the top-level files and directories you'll see in this project.
     7   ├── package.json
     8   └── README.md
 
-  1.  **`images/`**: The images used in the README.md, delete these if you clone the repo as these are unneeded and take unnecessary space. (Quality .gifs are heavy in size.)
+  1.  **`images/`**: The images used in the README.md as well as development process photos, delete these if you clone the repo as these are unneeded and take unnecessary space.
   
   2.  **`public/`**: All game assets are located in here.
   
