@@ -11,7 +11,7 @@
 </h3>
 <p align="center">
   <strong>Game application made by team "Crows by Crows".</strong><br>
-  <a href="https://www.nodeknockout.com/" target="_blank">Node Knockout</a> 2016 Hackathon Entry. A <a href="https://nodejs.org/en/" target="_blank">Node.js</a> product using <a href="https://expressjs.com/" target="_blank">Express</a>.
+  <a href="https://www.nodeknockout.com/" target="_blank">Node Knockout</a> 2016 Hackathon Entry. A <a href="https://nodejs.org/en/" target="_blank">Node.js</a>/<a href="https://phaser.io/" target="_blank">Phaser.js</a> product using <a href="https://expressjs.com/" target="_blank">Express</a>.
 </p>
 
 <!-- INFORMATION (Shields:IO) -->
