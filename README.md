@@ -1,8 +1,6 @@
 <!-- HEADING -->
 
-<h1 align="center">️
-  nodeknockout2016-cxc
-</h1>
+<h1 align="center">️nodeknockout2016-cxc</h1>
 
 <!-- DESCRIPTION -->
 
@@ -31,16 +29,13 @@
   <img src="./images/demo.gif">
 </p>
 
-"NodeQuest", a 2D platforming game!
+"NodeQuest" is a video game with the following features:
 
-``` 
-W or ↑ = JUMP
-A or ← = LEFT
-D or → = RIGHT
+- **Premise.** You control a samurai, unable to attack but has jumping skills, who must navigate through a poop filled platformer! The horror!
 
-Goal: Find the obnoxiously large coin!
-WARNING: Watch out for evil emojis!
-```
+- **Design Idea.** The team and I just wanted to talk about our lives while making something at the same time.
+
+- **Future endeavors.** Much longer level with a working HUD and exciting controls.
 
 <!-- QUICK INSTALLATION -->
 
@@ -59,15 +54,26 @@ Your app should now be running on [localhost:5000](https://localhost:5000/).
 
 ### Deploying to EngineYard
 
-Log into <https://cloud.engineyard.com>. Navigate to your Team's Application, and click "Deploy".
+Log into <https://cloud.engineyard.com>. Navigate to the application, and click "Deploy".
 
 For more information about using Node.js on EngineYard, check out the article below:
 
 - [Deploy Your Node.js Application on Engine Yard Cloud](https://support.cloud.engineyard.com/hc/en-us/articles/205411878-Deploy-Your-Node-js-Application-on-Engine-Yard-Cloud)
 
-<!-- IN-DEPTH INSTALLATION -->
+<!-- IN-DEPTH GUIDE -->
 
 <!-- ## <span role="img" aria-label="Rocket">🚀</span> Putting this in the Infinity Gauntlet (In-Depth Installation) -->
+
+## <span role="img" aria-label="Video Game">🎮</span> Controls
+
+``` 
+W or ↑ = JUMP
+A or ← = LEFT
+D or → = RIGHT
+
+Goal: Find the obnoxiously large coin!
+WARNING: Watch out for evil emojis!
+```
 
 <!-- WHAT'S INSIDE? -->
 
@@ -75,37 +81,31 @@ For more information about using Node.js on EngineYard, check out the article be
 
 A quick look at the top-level files and directories you'll see in this project.
 
-        .
-    1   ├── images/
-    2   ├── public/
-    2   ├── .gitignore
-    3   ├── app.json
-    4   ├── index.js
-    5   ├── LICENSE
-    6   ├── package-lock.json
-    7   ├── package.json
-    8   └── README.md
+```
+  .
+1 ├── images/
+2 ├── public/
+2 ├── .gitignore
+3 ├── app.json
+4 ├── index.js
+5 ├── LICENSE
+6 ├── package-lock.json
+7 ├── package.json
+8 └── README.md
+```
 
-  1.  **`images/`**: The images used in the README.md as well as development process photos, delete these if you clone the repo as these are unneeded and take unnecessary space.
-  
-  2.  **`public/`**: All game assets are located in here.
-  
-  3.  **`.gitignore`**: This project is licensed under the MIT license.
-  
-  4.  **`app.json`**: A small .json file containing info about the repo.
-  
-  5.  **`index.js`**: Proper portability of the repo to the browser, shows where your application is being run on for example `localhost:5000`.
-
-  6.  **`LICENSE`**: This project is licensed under the MIT license.
-  
-  7.  **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. (You won’t change this file directly)
-  
-  8.  **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc.). This manifest is how npm knows which packages to install for your project.
-
-  9. **`README.md`**: A text file containing useful reference information about your project. The one you're reading right now!
+1. **`images/`**: The images used in the README.md as well as development process photos, delete these if you clone the repo as these are unneeded and take unnecessary space.
+2. **`public/`**: What is distributed to the viewing software so everyone can see your greatest creation!
+3. **`.gitignore`**: This project is licensed under the MIT license.
+4. **`app.json`**: A small .json file containing info about the repo.
+5. **`index.js`**: Proper portability of the repo to the browser, shows where your application is being run on for example `localhost:5000`.
+6. **`LICENSE`**: An open source license that protects contributors and users depending on the license chosen.
+7. **`package-lock.json`** This is an automatically generated file based on the exact versions of your package manager dependencies that were installed for your project. (You won’t change this file directly)
+8. **`package.json`**: A manifest file for [Node.js](https://nodejs.org/en/) projects, which includes metadata (the project’s name, author, package names, etc.). This manifest is how [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/) knows which packages to install for your project.
+9. **`README.md`**: A markdown file containing useful reference information about your project. The file you're reading right now!
 
 <!-- LICENSE -->
 
-## [License](LICENSE)
+## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](LICENSE)
 
-The code in this project is licensed under MIT license.
+The code in this project is under a specific open source license.
