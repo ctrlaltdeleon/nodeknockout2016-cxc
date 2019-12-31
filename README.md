@@ -103,6 +103,15 @@ A quick look at the top-level files and directories you'll see in this project.
 8. **`package.json`**: A manifest file for [Node.js](https://nodejs.org/en/) projects, which includes metadata (the project’s name, author, package names, etc.). This manifest is how [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/) knows which packages to install for your project.
 9. **`README.md`**: A markdown file containing useful reference information about your project. The file you're reading right now!
 
+<!-- CONTRIBUTORS -->
+
+## <span role="img" aria-label="Globe With Meridians">🌐</span> Contributors
+
+- @MarkDeguzman
+- @MehrikSobreo
+- @GeoffWorley
+- @acfromspace
+
 <!-- LICENSE -->
 
 ## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](LICENSE)
