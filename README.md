@@ -1,6 +1,6 @@
 <!-- HEADING -->
 
-<h1 align="center">️nodeknockout2016-cxc</h1>
+<h1 align="center">️NodeQuest</h1>
 
 <!-- DESCRIPTION -->
 
