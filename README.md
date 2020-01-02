@@ -32,7 +32,7 @@ _NodeQuest_ is a video game with the following features:
 
 - **Premise.** You control a samurai, unable to attack but has jumping skills, who must navigate through a poop filled platformer! The horror!
 
-- **Design Idea.** The team and I just wanted to talk about our lives while making something at the same time.
+- **Design.** The team and I wanted to learn about `JavaScript` and `Node.js` while making a game.
 
 - **Potential endeavors.** Much longer level with a working HUD and exciting controls.
 
