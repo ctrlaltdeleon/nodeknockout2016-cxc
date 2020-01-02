@@ -28,40 +28,26 @@
   <img src="./images/demo.gif">
 </p>
 
-"NodeQuest" is a video game with the following features:
+_NodeQuest_ is a video game with the following features:
 
 - **Premise.** You control a samurai, unable to attack but has jumping skills, who must navigate through a poop filled platformer! The horror!
 
 - **Design Idea.** The team and I just wanted to talk about our lives while making something at the same time.
 
-- **Future endeavors.** Much longer level with a working HUD and exciting controls.
+- **Potential endeavors.** Much longer level with a working HUD and exciting controls.
 
 <!-- QUICK INSTALLATION -->
 
 ## <span role="img" aria-label="Sparkles">✨</span> Quick Installation
 
-Make sure you have [Node.js](https://nodejs.org/) installed.
-
-```sh
+```
 git clone https://github.com/acfromspace/nodeknockout2016-cxc.git
 cd nodeknockout2016-cxc
 npm install
 npm start
 ```
 
-Your app should now be running on [localhost:5000](https://localhost:5000/).
-
-### Deploying to EngineYard
-
-Log into <https://cloud.engineyard.com>. Navigate to the application, and click "Deploy".
-
-For more information about using Node.js on EngineYard, check out the article below:
-
-- [Deploy Your Node.js Application on Engine Yard Cloud](https://support.cloud.engineyard.com/hc/en-us/articles/205411878-Deploy-Your-Node-js-Application-on-Engine-Yard-Cloud)
-
 <!-- IN-DEPTH GUIDE -->
-
-<!-- ## <span role="img" aria-label="Rocket">🚀</span> Putting this in the Infinity Gauntlet (In-Depth Installation) -->
 
 ## <span role="img" aria-label="Video Game">🎮</span> Controls
 
@@ -93,7 +79,7 @@ A quick look at the top-level files and directories you'll see in this project.
 8 └── README.md
 ```
 
-1. **`images/`**: The images used in the README.md as well as development process photos, delete these if you clone the repo as these are unneeded and take unnecessary space.
+1. **`images/`**: Development process photos.
 2. **`public/`**: What is distributed to the viewing software so everyone can see your greatest creation!
 3. **`.gitignore`**: This project is licensed under the MIT license.
 4. **`app.json`**: A small .json file containing info about the repo.
