@@ -15,7 +15,7 @@
 <!-- BADGES -->
 
 <p align="center">
-    <a href="https://github.com/acfromspace/nodeknockout2016-cxc/blob/master/LICENSE">
+    <a href="https://github.com/ctrlaltdeleon/nodeknockout2016-cxc/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
             alt="License: MIT"></a>
     <a href="https://www.repostatus.org/#unsupported">
@@ -41,7 +41,7 @@ _NodeQuest_ is a video game with the following features:
 ## <span role="img" aria-label="Sparkles">✨</span> Quick Installation
 
 ```
-git clone https://github.com/acfromspace/nodeknockout2016-cxc.git
+git clone https://github.com/ctrlaltdeleon/nodeknockout2016-cxc.git
 cd nodeknockout2016-cxc
 npm install
 npm start
@@ -96,7 +96,7 @@ A quick look at the top-level files and directories you'll see in this project.
 - @MarkDeguzman
 - @MehrikSobreo
 - @GeoffWorley
-- @acfromspace
+- @ctrlaltdeleon
 
 <!-- LICENSE -->
 
